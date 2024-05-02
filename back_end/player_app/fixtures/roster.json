@@ -1,0 +1,49 @@
+[
+    {
+        "full_name": "Patrick Mahomes",
+        "position": "Quarterback",
+        "uniform_number": 15,
+        "age": 26,
+        "college": "Texas Tech",
+        "years_pro": 5
+    },
+    {
+        "full_name": "Christian McCaffrey",
+        "position": "Running Back",
+        "uniform_number": 22,
+        "age": 25,
+        "college": "Stanford",
+        "years_pro": 5
+    },
+    {
+        "full_name": "Tom Brady",
+        "position": "Quarterback",
+        "uniform_number": 12,
+        "age": 44,
+        "college": "Michigan",
+        "years_pro": 22
+    },
+    {
+        "full_name": "Aaron Donald",
+        "position": "Defensive Tackle",
+        "uniform_number": 99,
+        "age": 30,
+        "college": "Pittsburgh",
+        "years_pro": 8
+    },
+    {
+        "full_name": "Davante Adams",
+        "position": "Wide Receiver",
+        "uniform_number": 17,
+        "age": 29,
+        "college": "Fresno State",
+        "years_pro": 8
+    }
+]
+
+
+
+
+
+
+  
