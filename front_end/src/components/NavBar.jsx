@@ -24,6 +24,8 @@ const NavBar = ({setUser, user}) => {
                 <>
                   <Nav.Link as={Link} to="team/">Team Roster</Nav.Link>
                   <Nav.Link as={Link} to="players/">Players</Nav.Link>
+                  <Nav.Link as={Link} to="staff/">Staff</Nav.Link>
+                  <Nav.Link as={Link} to="schedule/">Team Schedule</Nav.Link>
                   <Button variant="outline-danger" onClick={async () => setUser(await userLogout())}>Logout</Button>
                 </>
               )}
