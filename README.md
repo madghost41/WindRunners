@@ -1,3 +1,7 @@
+
+![alt text](image.png)
+
+
 # WindRunners Football Management System
 Welcome to the WindRunners Football Management System! This project combines the power of React.js and Django to provide a comprehensive platform for managing a football team's operations. With integrated APIs and PostgreSQL for database management, this system facilitates CRUD (Create, Read, Update, Delete) operations efficiently, ensuring seamless management of player data, match schedules, team statistics, and more.
 
