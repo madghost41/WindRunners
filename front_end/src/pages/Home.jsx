@@ -1,3 +1,5 @@
+import windrunnersImage from '../images/windrunners.jpeg';
+
 
 const HomePage = () => {
     
@@ -6,9 +8,7 @@ const HomePage = () => {
 
     return (
         <>
-        <h1>WindRunners</h1>
-
-       
+        <img src={windrunnersImage} alt="Logo" />
         </>
     )
 }
