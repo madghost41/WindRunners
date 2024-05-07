@@ -18,10 +18,10 @@ Start the Servers: Run the frontend and backend servers separately to start the 
 Contributing
 Contributions to WindRunners Football Management System are welcome! Whether you want to fix a bug, implement a new feature, or suggest improvements, please feel free to submit pull requests. For major changes, please open an issue first to discuss the proposed changes and ensure alignment with the project goals.
 
-**## License**
+## **License**
 This project is licensed under the MIT License, which means you are free to modify and distribute the code for both personal and commercial purposes. However, attribution to the original creators is appreciated.
 
-**## Acknowledgements**
+## **Acknowledgements**
 React.js - A JavaScript library for building user interfaces.
 Django - A high-level Python web framework for rapid development and clean, pragmatic design.
 PostgreSQL - An open-source relational database management system known for its reliability and robust features.
